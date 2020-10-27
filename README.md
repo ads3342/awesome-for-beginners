@@ -37,6 +37,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Scala](#scala)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Sql](#Sql)
 
 ## .NET
 
@@ -315,6 +316,11 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue) _(label: good first issue)_ <br> Conway's Game of Life web version!
 - [Graphback](https://github.com/aerogear/graphback/labels/good%20first%20issue) _(label: good first issue)_ <br>A CLI and runtime framework to generate a GraphQL API in seconds.
 - [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
+
+
+## .Sql
+
+-[Sql] <br> it's full form is Structured query language and it is basically used for database management system. some softwares for using sql are oracle etc.
 
 ## Contribute
 
